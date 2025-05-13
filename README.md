@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Omi 🇱🇰</h1>
 <p align="center">
-  🎓 Student | 👨‍💻 Android & Windows App Developer <br>
-  💡 Tech Enthusiast | 📚 Grade 11 | O/L 2025 | 🌍 From Sri Lanka
+  🎓 Student | 👨‍💻 Android & Windows App Developer | Telegram Bots Developer <br>
+  💡 Tech Enthusiast | 📚 Owner Of TeamX and Nebus | Born 2009 | 🌍 From Sri Lanka
 </p>
 
 ---
@@ -32,10 +32,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎵 **MP App** | A modern media player with video downloader, AI subtitles & stream features |
-| 🎬 **Movie Downloader Site** | A Netflix-style site with themes, user accounts & language changer |
-| 🛡 **VPN App** | Android VPN with custom UI, auto updates, free servers (V2RayNG-based) |
-| 🤖 **AI Tools Bot** | A bot with 14+ tools: movie finder, subtitle translator, comment generator & more |
+| **Coming Soon** | 
 
 ---
 
@@ -43,7 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmiyaBroo&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmiyaBroo&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmiyaBroo&layout=compact&theme=radical" width="48%"/>
 </p>
 
@@ -60,19 +56,19 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@FilmeXLanka" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FilmeX%20Lanka-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Coming%20Soon-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/your_instagram" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@your_tiktok" target="_blank">
+  <a href="https://www.tiktok.com/" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/your_facebook" target="_blank">
+  <a href="https://facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/your_discord" target="_blank">
+  <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
@@ -81,10 +77,7 @@
 
 ## 🎯 2025 Goals
 
-- 🚀 Master **React** and frontend frameworks  
-- 📱 Publish Android apps to the Play Store  
-- 📺 Grow my YouTube channel – *FilmeX Lanka*  
-- 🤖 Launch my **AI Assistant Bot** with smart tools  
+- 🚀 Master **React** and frontend frameworks
 - 🧠 Score A's in the **O/L Exam**
 
 ---
