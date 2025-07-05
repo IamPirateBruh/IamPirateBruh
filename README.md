@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ominda;Founder of Nebus+%7C+App+Developer+%7C+Tech+Lover;Creating+Cool+Stuff+with+Code;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%9F;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
