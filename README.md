@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Ominda 🇱🇰</h1>
 <p align="center">
-  🎓 Student | 👨‍💻 Android & Windows App Developer | Telegram Bots Developer <br>
+  👨‍💻 Android & Windows App Developer | Telegram Bots Developer <br>
   💡 Tech Enthusiast | 📚 Founder of Nebus | Born Unknown Year | 🌍 From Sri Lanka
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+OmiyaBroo;Student+%7C+App+Developer+%7C+Tech+Lover;Creating+Cool+Stuff+with+Code;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%9F;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ominda;Founder of Nebus+%7C+App+Developer+%7C+Tech+Lover;Creating+Cool+Stuff+with+Code;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%9F;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,10 +39,8 @@
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamPirateBruh
-&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPirateBruh
-&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IamPirateBruh&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPirateBruh&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -50,8 +48,7 @@
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamPirateBruh
-&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamPirateBruh&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -81,7 +78,6 @@
 ## 🎯 2025 Goals
 
 - 🚀 Master **React** and frontend frameworks
-- 🧠 Score A's in the **O/L Exam**
 
 ---
 
