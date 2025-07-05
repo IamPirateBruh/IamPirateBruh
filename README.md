@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Omi 🇱🇰</h1>
+<h1 align="center">Hi there, I'm Ominda 🇱🇰</h1>
 <p align="center">
   🎓 Student | 👨‍💻 Android & Windows App Developer | Telegram Bots Developer <br>
-  💡 Tech Enthusiast | 📚 Owner Of TeamX and Nebus | Born 2009 | 🌍 From Sri Lanka
+  💡 Tech Enthusiast | 📚 Founder of Nebus | Born Unknown Year | 🌍 From Sri Lanka
 </p>
 
 ---
@@ -39,8 +39,10 @@
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmiyaBroo&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmiyaBroo&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IamPirateBruh
+&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPirateBruh
+&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -48,7 +50,8 @@
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmiyaBroo&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamPirateBruh
+&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
